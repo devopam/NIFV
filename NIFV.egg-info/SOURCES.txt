@@ -1,0 +1,8 @@
+main.py
+setup.py
+test_main.py
+NIFV.egg-info/PKG-INFO
+NIFV.egg-info/SOURCES.txt
+NIFV.egg-info/dependency_links.txt
+NIFV.egg-info/top_level.txt
+nifv/__init__.py
